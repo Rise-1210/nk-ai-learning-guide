@@ -2,6 +2,9 @@
 
 > **V2 版本** · 更新于 2026 年 7 月 6 日
 
+![南开数统人 AI 学习教程路线图](images/ai-learning-roadmap.png)
+*本图由 nanobanana2 制作*
+
 ## 写在前面
 
 上海交通大学《生存手册》中曾写道：
